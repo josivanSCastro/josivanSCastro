@@ -10,12 +10,13 @@
  <br>
 
 [![Josivan stats](https://github-readme-stats.vercel.app/api?username=josivanSCastro)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josivanSCastro)](https://github.com/anuraghazra/github-readme-stats)
  
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me
   <br>
-  - <a href="https://www.instagram.com/josivandasilvacastro/" >
+  <a href="https://www.instagram.com/josivandasilvacastro/" >
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
